@@ -6,8 +6,9 @@ Então ele segue 20 pessoas, o intuito é que essas pessoas sigam de volta, assi
 Tecnologias utilizadas: 
 ![](https://img.shields.io/badge/Framework-Selenium-green)![](https://img.shields.io/badge/Framework-Cucumber-yellowgreen)![](https://img.shields.io/badge/Language-Gherkin-brightgreen)![](https://img.shields.io/badge/Language-Ruby-red)
 
-Também utilizei o o padrão de projeto PageObjects, assim o projeto ficou melhor organizado.
-Exemplo do script:
+Também utilizei o o padrão de projeto PageObjects, assim o projeto ficou melhor organizado.  
+
+Exemplo do script:  
 ![Alt Text](https://github.com/FernandoSilva11/Automacao-Ruby/blob/main/Automacao-Ruby/Instagram/demonstra%C3%A7%C3%A3o_instagram.gif)
 
 Relatório gerado com Allure:  
