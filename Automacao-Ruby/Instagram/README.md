@@ -9,5 +9,6 @@ Tecnologias utilizadas:
 Também utilizei o o padrão de projeto PageObjects, assim o projeto ficou melhor organizado.
 Exemplo do script:
 ![Alt Text](https://github.com/FernandoSilva11/Automacao-Ruby/blob/main/Automacao-Ruby/Instagram/demonstra%C3%A7%C3%A3o_instagram.gif)
-Relatório gerado com Allure
+
+Relatório gerado com Allure:  
 <img src="https://github.com/FernandoSilva11/Automacao-Ruby/blob/main/Automacao-Ruby/Instagram/logs/allure-report.PNG" width="725" height="500" />
