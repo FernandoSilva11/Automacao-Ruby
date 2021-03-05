@@ -8,4 +8,4 @@ Tecnologias utilizadas:
 
 Também utilizei o o padrão de projeto PageObjects, assim o projeto ficou melhor organizado.
 
-![Alt Text](https://github.com/FernandoSilva11/Automacao/blob/main/Automacao-Ruby/Instagram/demonstra%C3%A7%C3%A3o_instagram.gif)
+![Alt Text](https://github.com/FernandoSilva11/Automacao-Ruby/blob/main/Automacao-Ruby/Instagram/demonstra%C3%A7%C3%A3o_instagram.gif)
