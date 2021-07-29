@@ -1,8 +1,9 @@
 
 Feature: Instagram
     
-    Scenario: Seguir 20 pessoas
+    Scenario: Seguir N pessoas
 
-        Given Faço login no instagram com "seu-email" e "sua-senha".
+        Given Faço login no instagram com "" e "".
         When Vou até a pagina de sugestões de amizade
-        Then Sigo 20 pessoas
+        And Sigo 5 pessoas
+        Then Página deve exibir essas pessoas com o status Seguindo
