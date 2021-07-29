@@ -11,7 +11,5 @@ class LoginPage
     find("[name=password]").set senha
 
     find('button[type="submit"]').click
-
-    sleep 5
   end
 end
